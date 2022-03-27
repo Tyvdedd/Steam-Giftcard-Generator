@@ -88,3 +88,4 @@ if opcion==4:
 	time.sleep(2)
 	sys.exit()
 	pass
+python GiftGenerator.py
